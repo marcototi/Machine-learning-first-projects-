@@ -1,4 +1,4 @@
-# Machine-learning-first-projects
+# Bad payers project
 The company needs to predict the solvency of invoices issued to customers to which it supplies electricity and gas. An overdue invoice with a balance negative indicates 
 the customer's arrears. This forecast is necessary for organizing future credit department activities.
 
